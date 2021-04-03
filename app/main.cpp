@@ -8,7 +8,6 @@ float Calculator_2(int input2);
 
 int main()
 {
-  int input2;
 
   bool status = true;
   while(status)
